@@ -1,0 +1,51 @@
+{
+  "records": [
+    {
+      "id": "1",
+      "title": "village",
+      "artist": "John",
+      "year": "2017",
+      "price": "30",
+      "image": "this is a URL"
+    },
+    {
+      "id": "3",
+      "title": "village",
+      "artist": "John",
+      "year": "2019",
+      "price": "30",
+      "image": "this is a URL"
+    },
+    {
+      "id": "4",
+      "title": "country",
+      "artist": "John",
+      "year": "2019",
+      "price": "20",
+      "image": "this is a URL"
+    },
+    {
+      "title": "testing",
+      "artist": "John",
+      "year": "2021",
+      "price": "40",
+      "image": "this is a URL"
+    }
+  ],
+  "users": [
+    {
+      "id": "01",
+      "name": "user 1",
+      "job": "artist",
+      "join-year": "2017",
+      "image": "this is a URL"
+    },
+    {
+      "id": "02",
+      "name": "user 2",
+      "job": "developer",
+      "join-year": "2019",
+      "image": "this is a URL"
+    }
+  ]
+}
